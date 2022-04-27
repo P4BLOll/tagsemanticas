@@ -1,0 +1,10 @@
+body{
+
+  background-color: aqua;
+}
+main{
+    display: flex;
+}
+#sessãolateral{
+    background-color: blue;
+}
